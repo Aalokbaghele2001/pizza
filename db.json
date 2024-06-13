@@ -1,0 +1,257 @@
+{
+  "pizza":[
+  {
+    "id": 1,
+    "dish": "Margherita Pizza",
+    "image": "https://www.example.com/margherita_pizza.jpg",
+    "price": 199,
+    "type": "Vegetarian",
+    "desc": "Classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+    "rating": 4.8,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Pizza Paradise",
+      "address": "123 Pizza Lane, Mumbai",
+      "timing": "11:00 AM - 11:00 PM",
+      "offers": "Buy 1 Get 1 Free on all pizzas",
+      "rating": 4.7,
+      "about": "Pizza Paradise offers a variety of delicious pizzas with fresh ingredients and traditional flavors."
+    }
+  },
+  {
+    "id": 2,
+    "dish": "Pepperoni Pizza",
+    "image": "https://www.example.com/pepperoni_pizza.jpg",
+    "price": 249,
+    "type": "Non-Vegetarian",
+    "desc": "Pizza topped with tomato sauce, mozzarella cheese, and spicy pepperoni slices.",
+    "rating": 4.6,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Pepperoni Palace",
+      "address": "456 Pepper Lane, Delhi",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "20% off on large pizzas",
+      "rating": 4.5,
+      "about": "Pepperoni Palace specializes in hearty pizzas with generous toppings of pepperoni and cheese."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Vegetarian Supreme Pizza",
+    "image": "https://www.example.com/vegetarian_supreme_pizza.jpg",
+    "price": 229,
+    "type": "Vegetarian",
+    "desc": "Loaded with tomato sauce, mozzarella cheese, bell peppers, olives, mushrooms, and onions.",
+    "rating": 4.7,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Supreme Slices",
+      "address": "789 Supreme Plaza, Bangalore",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Free garlic bread with every pizza",
+      "rating": 4.8,
+      "about": "Supreme Slices offers a variety of supreme pizzas with fresh and colorful toppings."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "BBQ Chicken Pizza",
+    "image": "https://www.example.com/bbq_chicken_pizza.jpg",
+    "price": 279,
+    "type": "Non-Vegetarian",
+    "desc": "Pizza topped with tangy BBQ sauce, mozzarella cheese, grilled chicken, and onions.",
+    "rating": 4.8,
+    "category": "pizza",
+    "restaurant": {
+      "name": "BBQ Bites",
+      "address": "234 BBQ Road, Pune",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Buy 2 pizzas, get 1 free",
+      "rating": 4.7,
+      "about": "BBQ Bites serves delicious BBQ chicken pizzas with a smoky flavor and generous toppings."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Mushroom and Olive Pizza",
+    "image": "https://www.example.com/mushroom_olive_pizza.jpg",
+    "price": 259,
+    "type": "Vegetarian",
+    "desc": "Pizza topped with tomato sauce, mozzarella cheese, mushrooms, black olives, and herbs.",
+    "rating": 4.6,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Mushroom Magic",
+      "address": "567 Olive Street, Kolkata",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "15% off on all veg pizzas",
+      "rating": 4.6,
+      "about": "Mushroom Magic offers a delightful range of vegetarian pizzas, including the popular mushroom and olive pizza."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Pesto Chicken Pizza",
+    "image": "https://www.example.com/pesto_chicken_pizza.jpg",
+    "price": 289,
+    "type": "Non-Vegetarian",
+    "desc": "Pizza with pesto sauce, mozzarella cheese, grilled chicken, sun-dried tomatoes, and basil.",
+    "rating": 4.7,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Pesto Paradise",
+      "address": "890 Basil Lane, Hyderabad",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Free soft drink with every pizza",
+      "rating": 4.8,
+      "about": "Pesto Paradise specializes in flavorful pizzas with a unique twist, including the popular pesto chicken pizza."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Four Cheese Pizza",
+    "image": "https://www.example.com/four_cheese_pizza.jpg",
+    "price": 269,
+    "type": "Vegetarian",
+    "desc": "Pizza topped with tomato sauce, mozzarella, cheddar, parmesan, and blue cheese.",
+    "rating": 4.8,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Cheese Heaven",
+      "address": "123 Cheese Street, Ahmedabad",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "20% off on all cheese pizzas",
+      "rating": 4.7,
+      "about": "Cheese Heaven offers a cheese lover's dream with a variety of pizzas, including the indulgent four cheese pizza."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Paneer Tikka Pizza",
+    "image": "https://www.example.com/paneer_tikka_pizza.jpg",
+    "price": 249,
+    "type": "Vegetarian",
+    "desc": "Pizza topped with tomato sauce, mozzarella cheese, paneer tikka pieces, bell peppers, and onions.",
+    "rating": 4.7,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Paneer Paradise",
+      "address": "456 Paneer Road, Jaipur",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "Buy 1 Get 1 Free on all paneer pizzas",
+      "rating": 4.6,
+      "about": "Paneer Paradise offers a variety of paneer-based pizzas, including the delicious paneer tikka pizza."
+    }
+  },
+  {
+    "id": 9,
+    "dish": "Seafood Delight Pizza",
+    "image": "https://www.example.com/seafood_delight_pizza.jpg",
+    "price": 299,
+    "type": "Non-Vegetarian",
+    "desc": "Pizza topped with tomato sauce, mozzarella cheese, shrimp, squid, and assorted seafood.",
+    "rating": 4.7,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Seafood Sensation",
+      "address": "789 Seafood Plaza, Goa",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Chef's special seafood pizza",
+      "rating": 4.6,
+      "about": "Seafood Sensation offers a variety of seafood pizzas, perfect for seafood lovers craving a flavorful pizza experience."
+    }
+  },
+  {
+    "id": 10,
+    "dish": "BBQ Paneer Pizza",
+    "image": "https://www.example.com/bbq_paneer_pizza.jpg",
+    "price": 269,
+    "type": "Vegetarian",
+    "desc": "Pizza topped with tangy BBQ sauce, mozzarella cheese, paneer cubes, and onions.",
+    "rating": 4.8,
+    "category": "pizza",
+    "restaurant": {
+      "name": "BBQ Delights",
+      "address": "234 BBQ Plaza, Chandigarh",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "Buy 2 pizzas, get 1 free",
+      "rating": 4.7,
+      "about": "BBQ Delights offers a variety of BBQ-themed pizzas, including the popular BBQ paneer pizza."
+    }
+  },
+  {
+    "id": 11,
+    "dish": "Veggie Delight Pizza",
+    "image": "https://www.example.com/veggie_delight_pizza.jpg",
+    "price": 239,
+    "type": "Vegetarian",
+    "desc": "Pizza topped with tomato sauce, mozzarella cheese, bell peppers, onions, tomatoes, and olives.",
+    "rating": 4.6,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Veggie Villa",
+      "address": "567 Veggie Lane, Chennai",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Free garlic bread with every pizza",
+      "rating": 4.5,
+      "about": "Veggie Villa offers a variety of vegetarian pizzas with fresh, garden-inspired toppings."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "Chicken Tikka Pizza",
+    "image": "https://www.example.com/chicken_tikka_pizza.jpg",
+    "price": 279,
+    "type": "Non-Vegetarian",
+    "desc": "Pizza topped with chicken tikka, tomato sauce, mozzarella cheese, and a sprinkle of cilantro.",
+    "rating": 4.7,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Tikka Treats",
+      "address": "890 Tikka Street, Mumbai",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "10% off on online orders",
+      "rating": 4.6,
+      "about": "Tikka Treats specializes in delicious tikka-inspired pizzas with a variety of flavors."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "Hawaiian Pizza",
+    "image": "https://www.example.com/hawaiian_pizza.jpg",
+    "price": 259,
+    "type": "Non-Vegetarian",
+    "desc": "Pizza topped with tomato sauce, mozzarella cheese, ham, pineapple, and a touch of oregano.",
+    "rating": 4.5,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Tropical Pizza",
+      "address": "234 Pineapple Lane, Goa",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Buy 1 Get 1 Free on all Hawaiian pizzas",
+      "rating": 4.7,
+      "about": "Tropical Pizza offers a variety of fruity and tropical flavors, including the famous Hawaiian pizza."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Spinach and Feta Pizza",
+    "image": "https://www.example.com/spinach_feta_pizza.jpg",
+    "price": 269,
+    "type": "Vegetarian",
+    "desc": "Pizza topped with a blend of tomato sauce, mozzarella cheese, fresh spinach, and crumbled feta cheese.",
+    "rating": 4.6,
+    "category": "pizza",
+    "restaurant": {
+      "name": "Green Delight",
+      "address": "567 Veggie Road, Ahmedabad",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Free dessert with every spinach pizza",
+      "rating": 4.5,
+      "about": "Green Delight specializes in fresh, vegetarian pizzas with unique and healthy toppings."
+    }
+  }
+]
+}
+
